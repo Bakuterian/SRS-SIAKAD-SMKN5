@@ -1,4 +1,5 @@
 To-Do-Check List SRS SIAKAD SMKN5:
 1. 26 September 2022 - A, B, dan C menghubungi Pak Kepala Sekolah untuk requirement gathering
-3. 28 September 2022 - A, B, C, dan D membuat dokumen SRS
-4. 29 September 2022 - Presentasi SRS
+2. 28 September 2022 - A, B, C, dan D membuat dokumen SRS
+3. 29 September 2022 - Presentasi SRS
+4. 30 September 2022 - Evaluasi hasil presentasi
